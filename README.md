@@ -1,4 +1,3 @@
-# Global Autoregressive Models (GAMs)
-Global Autoregressive Models for Data-Efficient Sequence Learning (official implementation for CONLL paper)
+Code will be provided on publication of related paper:
 
-we will provide the link at the time of publication
+Global Autoregressive Models for Data-Efficient Sequence Learning. Tetiana Parshakova, Jean-Marc Andreoli and Marc Dymetman. CONLL, Hong Kong. Nov. 2019
