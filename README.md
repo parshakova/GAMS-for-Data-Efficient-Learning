@@ -1,6 +1,8 @@
-Global Autoregressive Models for Data-Efficient Sequence Learning. Tetiana Parshakova, Jean-Marc Andreoli and Marc Dymetman. CONLL, Hong Kong. Nov. 2019
+### Global Autoregressive Models for Data-Efficient Sequence Learning. 
+Tetiana Parshakova, Jean-Marc Andreoli and Marc Dymetman. CONLL, Hong Kong. Nov. 2019
 
-Distributional Reinforcement Learning for Energy-Based Sequential Models. Tetiana Parshakova, Jean-Marc Andreoli and Marc Dymetman. Optimization Foundations for Reinforcement Learning Workshop at NeurIPS, Vancouver. Dec. 2019
+### Distributional Reinforcement Learning for Energy-Based Sequential Models. 
+Tetiana Parshakova, Jean-Marc Andreoli and Marc Dymetman. Optimization Foundations for Reinforcement Learning Workshop at NeurIPS, Vancouver. Dec. 2019
 
 
 
